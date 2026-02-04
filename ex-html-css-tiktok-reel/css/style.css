@@ -96,8 +96,8 @@ da rimuovere una volta concluso
   padding: 10px;
 }
 
-.gap-10 {
-  gap: 10px;
+.gap-20 {
+  gap: 20px;
 }
 .fs-large {
   font-size: 2rem;
@@ -118,5 +118,19 @@ da rimuovere una volta concluso
   border-radius: 2px;
   left: 50%;
   transform: translateX(-50%);
+}
+.following {
+  position: relative;
+}
+.dot-notification {
+  position: absolute;
+  top: -1px;
+
+  background-color: red;
+  width: 8px;
+  height: 8px;
+  border-radius: 100px;
+
+  right: -8px;
 }
 /* --------------------- */
