@@ -72,7 +72,7 @@ da rimuovere una volta concluso
 
 .debug .sidebar {
   min-width: 80px;
-  min-height: 450px;
+  min-height: 318px;
   border: 2px dashed #ff0;
 }
 
@@ -185,6 +185,13 @@ da rimuovere una volta concluso
   position: relative;
 }
 
+.c-white {
+  color: #fff;
+}
+.image {
+  width: 35px;
+  height: 35px;
+}
 /*.bi.bi-plus {
   position: absolute;
   left: 50%;
