@@ -209,7 +209,14 @@ da rimuovere una volta concluso
 .image-container {
   position: relative;
 }
-
+.account-name {
+  position: absolute;
+  border: 2px dashed #fff;
+  min-height: 40px;
+  width: 130px;
+  bottom: 100px;
+  padding: 10px;
+}
 /*.bi.bi-plus {
   position: absolute;
   left: 50%;
