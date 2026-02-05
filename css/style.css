@@ -66,19 +66,19 @@ da rimuovere una volta concluso
 --------------------- */
 .debug footer {
   min-height: 100px;
-  border: 2px dashed #fff;
+  /* border: 2px dashed #fff; */
   height: 100px;
 }
 
 .debug .sidebar {
   min-width: 80px;
   min-height: 318px;
-  border: 2px dashed #ff0;
+  /* border: 2px dashed #ff0; */
 }
 
 .debug .reel-header {
   min-height: 50px;
-  border: 2px dashed #fff;
+  /* border: 2px dashed #fff; */
 }
 
 .reel-header {
@@ -211,11 +211,11 @@ da rimuovere una volta concluso
 }
 .account-name {
   position: absolute;
-  border: 2px dashed #fff;
+  /* border: 2px dashed #fff; */
   min-height: 40px;
-  width: 130px;
   bottom: 100px;
   padding: 10px;
+  font-weight: bold;
 }
 /*.bi.bi-plus {
   position: absolute;
