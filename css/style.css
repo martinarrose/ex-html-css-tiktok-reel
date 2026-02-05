@@ -99,6 +99,9 @@ da rimuovere una volta concluso
 .justify-around {
   justify-content: space-around;
 }
+.justify-evenly {
+  justify-content: space-evenly;
+}
 .flex-column {
   flex-direction: column;
 }
@@ -192,6 +195,21 @@ da rimuovere una volta concluso
   width: 35px;
   height: 35px;
 }
+.img-follow {
+  width: 15px;
+  height: 15px;
+  border-radius: 100%;
+  background-color: rgb(209, 63, 63);
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -4px;
+}
+.image-container {
+  position: relative;
+}
+
 /*.bi.bi-plus {
   position: absolute;
   left: 50%;
